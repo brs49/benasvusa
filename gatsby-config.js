@@ -7,9 +7,9 @@ module.exports = {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-cara/gatsby-config.js
-    siteTitle: `Snaeb`,
-    siteTitleAlt: `Snaeb`,
-    siteHeadline: `Snaeb`,
+    siteTitle: `Snaebavusa`,
+    siteTitleAlt: `Snaebavusa`,
+    siteHeadline: `Snaebavusa`,
     siteUrl: `https://benasvusa.wordpress.com/`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
