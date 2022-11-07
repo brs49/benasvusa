@@ -11,13 +11,12 @@ module.exports = {
     siteTitleAlt: `Beansavusa`,
     siteHeadline: `Beansavusa`,
     siteUrl: `https://benasvusa.wordpress.com/`,
-    siteDescription: `Playful and Colorful `,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
   },
   plugins: [
     {
-      resolve: `@lekoarts/gatsby-theme-cara`,
+      
       // See the theme's README for all available options
       options: {},
     },
